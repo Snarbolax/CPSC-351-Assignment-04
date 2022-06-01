@@ -1,0 +1,27 @@
+1. Go to your OS's command line.
+
+2. Navigate to the directory with the output file "disk.exe".
+This can be done with by typing and entering "cd [folder name]" and "cd .." into the terminal.
+
+3. Once you are in the correct directory, type "disk.exe" and press "Enter".
+
+4. The program will prompt you to make decisions based on the options given to you by the program.
+
+OPTIONS
+-----------------------
+1. Make a file system
+2. Mount a file system
+3. Unmount a file system
+4. Open a file
+5. Close a file
+6. Create a file
+7. Delete a file
+8. Read from a file
+9. Write to a file
+10. Get filesize
+11. Set file pointer
+12. Truncate a file
+13. Exit
+-----------------------
+
+5. Exit the program by selecting "13" when finished.
